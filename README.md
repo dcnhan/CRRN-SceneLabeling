@@ -7,7 +7,7 @@ T. Hoang Ngan Le, Chi Nhan Duong, Ligong Han, Khoa Luu, Marios Savvides, Dipan P
 
 ### Introduction
 
-This is the repository for Deep Contextual Recurrent Residual Networks ([Deep CRRN](https://arxiv.org/pdf/1704.03594))
+This is the repository for Deep Contextual Recurrent Residual Networks ([Deep CRRN](https://arxiv.org/pdf/1704.03594)).
  
 ## Citation
 
