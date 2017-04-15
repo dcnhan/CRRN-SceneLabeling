@@ -3,6 +3,8 @@ Deep Contextual Recurrent Residual Networks for Scene Labeling
 
 T. Hoang Ngan Le, Chi Nhan Duong, Ligong Han, Khoa Luu, Marios Savvides, Dipan Pal
 
+(data/SceneLabelingSamples_new.pdf)
+
 ### Introduction
 
 This is the repository for Deep Contextual Recurrent Residual Networks ([Deep CRRN](https://arxiv.org/pdf/1704.03594))
