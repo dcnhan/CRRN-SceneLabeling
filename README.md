@@ -3,7 +3,7 @@ Deep Contextual Recurrent Residual Networks for Scene Labeling
 
 T. Hoang Ngan Le, Chi Nhan Duong, Ligong Han, Khoa Luu, Marios Savvides, Dipan Pal
 
-<img src='data/SceneLabelingSamples_new.jpg' width='60%'>
+<p align="center"><img src='data/SceneLabelingSamples_new.jpg' align="center" width='60%'></p>
 
 ### Introduction
 
@@ -24,11 +24,12 @@ If you find this code useful please cite us in your work:
 
 ### Our Results
 
-<img src='data/SiftFlow_Samples-eps-converted-to.jpg' width='60%'>
-Examples of labeling results on SiftFlow
+Examples of labeling results on SiftFlow 
+<img src='data/SiftFlow_Samples-eps-converted-to.jpg' align="middle" width='100%'> 
 
-<img src='data/CamVid_samples-eps-converted-to.jpg' width='60%'>
 Examples of labeling results on CamVid
+<img src='data/CamVid_samples-eps-converted-to.jpg' width='100%'>
 
-<img src='data/SUN_samples.jpg' width='60%'>
 Examples of labeling results on SUN dataset
+<img src='data/SUN_samples.jpg' width='100%'>
+
