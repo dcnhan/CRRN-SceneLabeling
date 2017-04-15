@@ -24,5 +24,11 @@ If you find this code useful please cite us in your work:
 
 ### Our Results
 
-<img src='data/SiftFlow_Samples-eps-converted-to.pdf' width='60%'>
+<img src='data/SiftFlow_Samples-eps-converted-to.jpg' width='60%'>
 Examples of labeling results on SiftFlow
+
+<img src='data/CamVid_samples-eps-converted-to.jpg' width='60%'>
+Examples of labeling results on CamVid
+
+<img src='data/SUN_samples.jpg' width='60%'>
+Examples of labeling results on SUN dataset
