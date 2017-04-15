@@ -1,5 +1,5 @@
 # CRRN-SceneLabeling
-Deep Contextual Recurrent Residual Networks for Scene Labeling
+**Deep Contextual Recurrent Residual Networks for Scene Labeling**
 
 T. Hoang Ngan Le, Chi Nhan Duong, Ligong Han, Khoa Luu, Marios Savvides, Dipan Pal
 
