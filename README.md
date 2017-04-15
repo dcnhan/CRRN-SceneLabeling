@@ -3,7 +3,7 @@ Deep Contextual Recurrent Residual Networks for Scene Labeling
 
 T. Hoang Ngan Le, Chi Nhan Duong, Ligong Han, Khoa Luu, Marios Savvides, Dipan Pal
 
-![](data/SceneLabelingSamples_new.jpg)
+<img src='data/SceneLabelingSamples_new.jpg' width='60%'>
 
 ### Introduction
 
@@ -24,6 +24,5 @@ If you find this code useful please cite us in your work:
 
 ### Our Results
 
-0. Video Inpainting results: [Dropbox](https://www.dropbox.com/s/w3ti8i7eg7it35n/Video_inpainting_demo.mp4?dl=0)
-0. Real-time Background subtraction results: [Dropbox](https://www.dropbox.com/sh/rqneam8659js80k/AAByj0oBtX4V4D-4h_WBviXXa?dl=0)
-0. Code of OLP-RPCA is coming soon!
+<img src='data/SiftFlow_Samples-eps-converted-to.pdf' width='60%'>
+Examples of labeling results on SiftFlow
